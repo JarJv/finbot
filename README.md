@@ -49,3 +49,14 @@ O arquivo `.env` contém chaves privadas e não deve ser enviado ao GitHub. O ar
 ## Próximas etapas
 
 Este projeto será ampliado nas aulas seguintes. O link do aplicativo publicado será acrescentado aqui quando ele estiver disponível.
+
+
+## Links do projeto
+
+| O quê | Link |
+|---|---|
+| Chat publicado (Streamlit Cloud) | https://jarjvfinbot.streamlit.app |
+| API publicada (Render) | https://finbot-api-2kpw.onrender.com |
+| Documentação da API | https://finbot-api-2kpw.onrender.com/docs |
+
+No plano gratuito, a API "dorme" depois de um tempo sem uso: a primeira pergunta pode demorar cerca de 1 minuto.
