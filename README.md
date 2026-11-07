@@ -4,7 +4,7 @@ Assistente educacional para aprender conceitos sobre investimentos no Brasil. Es
 
 ## Etapa atual
 
-Na Aula 1, o projeto tem uma conversa inicial pelo terminal. O FinBot responde a perguntas gerais sobre investimentos e mantém o histórico durante a conversa.
+Na Aula 2, o projeto tem um frontend aberto local, e o FinBot responde a perguntas através da API.
 
 ## Requisitos
 
